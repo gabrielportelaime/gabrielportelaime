@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Meu nome é Gabriel Lucas.
 
-<!--
-**gabrielportelaime/gabrielportelaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com beck-end (Java) na SEFAZ/AM.
+- 🌱 Estudando constantemente Python e outras tecnologias.
+- 💬 Formado em Engenharia da Computação pelo IME - INSTITUTO MILITAR DE ENGENHARIA.
+- 📫 Contate-me no email: gabriel.portela@ime.eb.br
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/gabrielportelaime">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielportelaime&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportelaime&layout-compact&langs_count&theme=github_dark"/>+
+</div>
