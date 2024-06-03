@@ -33,7 +33,7 @@
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 	</a> 
 	<a href="https://judge.beecrowd.com/pt/profile/3231" target="_blank">
-		<img height="28" width="110" src="https://drive.google.com/file/d/1fGYejl4SZplaVPxG_ueePJ25OKYuERa6/view?usp=sharing" target="_blank">
+		<img height="28" width="110" src="https://i.imgur.com/jOqokff.jpg" target="_blank">
 	</a>
 	<a href="https://codeforces.com/profile/GabrielPortela" target="_blank">
 		<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank">
