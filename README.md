@@ -36,7 +36,7 @@
 		<img height="28" width="110" src="https://cdn.discordapp.com/attachments/1247235950630939783/1247239138688892928/beecrowd.jpg?ex=665f4d77&is=665dfbf7&hm=965084ae50c8e6e9296641b0222b43c66b7fcfc3f88311ffed315eeddd0dba18&" target="_blank">
 	</a>
 	<a href="https://codeforces.com/profile/GabrielPortela" target="_blank">
-		<img height="28" width="110" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank">
+		<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank">
 	</a>
 	<a href="https://leetcode.com/u/GabrielPortela1997/" target="_blank">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank">
