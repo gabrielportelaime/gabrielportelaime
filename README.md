@@ -38,6 +38,15 @@
 	<a href="https://codeforces.com/profile/GabrielPortela" target="_blank">
 		<img height="28" width="110" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank">
 	</a>
+	<a href="https://leetcode.com/u/GabrielPortela1997/" target="_blank">
+		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank">
+	</a>
+	<a href="https://www.codechef.com/users/gabrielportela" target="_blank">
+		<img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" target="_blank">
+	</a>
+	<a href="https://www.hackerrank.com/profile/gabriel_portela" target="_blank">
+		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
+	</a>
 	<a href="mailto:gabriel.portela@ime.eb.br">
 		<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
@@ -49,5 +58,5 @@
 	</a>
 	<a href="http://liverpool.intra.sefaz.am/P001515" target="_blank">
 		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
-	</a>
+	</a
 </div>
