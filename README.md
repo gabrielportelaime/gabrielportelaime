@@ -11,7 +11,7 @@
 		<img height=200 align="center" width="" src="https://github-readme-stats.vercel.app/api?username=gabrielportelaime&show_icons=true&theme=github_dark&locale=pt-br"/>
 	</a>
 	<a href="https://github.com/gabrielportelaime">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportelaime&card_width=396&theme=github_dark&locale=pt-br&layout=compact"/>
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportelaime&card_width=395&theme=github_dark&locale=pt-br&layout=compact"/>
 	</a>
 </div>
 
