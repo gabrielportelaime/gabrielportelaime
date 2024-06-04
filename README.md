@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: gabriel.portela@ime.eb.br
 - 😄 Pronomes: Ele/Dele
 
-<div>
+<div width="100%">
 	<a href="https://github.com/gabrielportelaime">
 		<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=gabrielportelaime&show_icons=true&theme=github_dark&locale=pt-br"/>
 	</a>
