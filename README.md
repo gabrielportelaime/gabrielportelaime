@@ -50,7 +50,7 @@
 	<a href="https://www.hackerrank.com/profile/gabriel_portela" target="_blank">
 		<img height="30" width="150" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
 	</a>
-	<a href="gabriel.portela@ime.eb.br">
+	<a href="mailto:gabriel.portela@ime.eb.br">
 		<img height="30" width="150" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
 	<a href="https://stackoverflow.com/users/14403031/gabriel-lucas-de-sousa-portela" target="_blank">
